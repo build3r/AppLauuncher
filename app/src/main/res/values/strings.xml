@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Launcher</string>
+    <string name="app_name_1">Spotify Streamer</string>
+    <string name="app_name_2">Scores App</string>
+    <string name="app_name_3">Library App</string>
+    <string name="app_name_4">Build It Bigger</string>
+    <string name="app_name_5">XYZ Reader</string>
+    <string name="app_name_6">Capstone: The Ultimate</string>
+</resources>
